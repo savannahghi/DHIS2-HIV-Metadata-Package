@@ -63,7 +63,7 @@ DataElementGroup
 Indicator  
 DataEntryForm  
 DataSet  
-### PART 3
+### PART 3: Program Indicators and PI Groups
 #### Part 3.1: Infolink PIs + Infolink PI Groups
 ProgramIndicator  
 ProgramIndicatorGroups  
