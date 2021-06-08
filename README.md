@@ -4,7 +4,7 @@ FHI 360's HIV Metadata package for DHIS2
 ## HIV METADATA PACKAGE DESCRIPTION V2.2.2
 ------------------------------------------
 
-### PART 1: Tracker Programs. 
+### PART 1: Tracker Programs
 UserRole  
 UserGroup  
 Options  
@@ -22,7 +22,7 @@ ProgramStage
 Program  
 RelationshipType  
 
-### PART 2:
+### PART 2
 #### Part 2.1: Infolink DS
 CategoryOption  
 Category  
