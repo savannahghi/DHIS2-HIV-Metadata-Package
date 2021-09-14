@@ -20,6 +20,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "KHGn9v2bqrU", 
       "name": "LAB_CQI - Level", 
+      "shortName": "LAB_CQI - Level", 
       "publicAccess": "r-------"
     }, 
     {
@@ -57,6 +58,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "yn74CYDJ4ry", 
       "name": "Lab Test Services - LAB", 
+      "shortName": "Lab Test Services - LAB", 
       "publicAccess": "r-------"
     }, 
     {
@@ -76,6 +78,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "Yd9NkTBqDpB", 
       "name": "Age (5-14-uk, 2)", 
+      "shortName": "Age (5-14-uk, 2)", 
       "publicAccess": "r-------"
     }, 
     {
@@ -116,6 +119,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "HUOw5UkDg4V", 
       "name": "Age (10-50+-uk, 10)", 
+      "shortName": "Age (10-50+-uk, 10)", 
       "publicAccess": "r-------"
     }, 
     {
@@ -135,6 +139,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "remFcdfvgfR", 
       "name": "PrEP Three Month Test Result", 
+      "shortName": "PrEP Three Month Test Result", 
       "publicAccess": "r-------"
     }, 
     {
@@ -148,6 +153,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "to1jO2KmwCG", 
       "name": "Receiving ART (Yes Only)", 
+      "shortName": "Receiving ART (Yes Only)", 
       "publicAccess": "r-------"
     }, 
     {
@@ -167,6 +173,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "yFiUWOodgOZ", 
       "name": "Transferred or exited", 
+      "shortName": "Transferred or exited", 
       "publicAccess": "r-------"
     }, 
     {
@@ -198,6 +205,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "R8ay5IoNW1S", 
       "name": "Age (<1-20-uk, 6)", 
+      "shortName": "Age (<1-20-uk, 6)", 
       "publicAccess": "r-------"
     }, 
     {
@@ -217,6 +225,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "L567Pvhn2WC", 
       "name": "Known Positive / New Pos or Neg", 
+      "shortName": "Known Positive / New Pos or Neg", 
       "publicAccess": "r-------"
     }, 
     {
@@ -260,6 +269,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "Xwu76jxPuy9", 
       "name": "Dispensed ARV Bottles", 
+      "shortName": "Dispensed ARV Bottles",
       "publicAccess": "r-------"
     }, 
     {
@@ -272,7 +282,8 @@
       "dataDimension": false, 
       "dataDimensionType": "DISAGGREGATION", 
       "id": "z5yJfr6O3w8", 
-      "name": "Sex (Female)", 
+      "name": "Sex (Female)",
+      "shortName": "Sex (Female)", 
       "publicAccess": "r-------"
     }, 
     {
@@ -289,6 +300,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "McLoJJs4bki", 
       "name": "Program Status v2", 
+      "shortName": "Program Status v2",
       "publicAccess": "r-------"
     }, 
     {
@@ -320,6 +332,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "c1jGKEP8Vav", 
       "name": "Priority Population Type", 
+      "shortName": "Priority Population Type",
       "publicAccess": "r-------"
     }, 
     {
@@ -345,6 +358,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "ZiayCMcQLhM", 
       "name": "HIV Status (Inc Undisclosed and Test Not Required)", 
+      "shortName": "HIV Status (Inc Undisclosed and Test Not Required)", 
       "publicAccess": "r-------"
     }, 
     {
@@ -361,6 +375,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "tX6vva5HMZ6", 
       "name": "Infant Age (2,2-12)", 
+      "shortName": "Infant Age (2,2-12)", 
       "publicAccess": "r-------"
     }, 
     {
@@ -374,6 +389,7 @@
       "dataDimensionType": "ATTRIBUTE", 
       "id": "SH885jaRe0o", 
       "name": "Funding Mechanism", 
+      "shortName": "Funding Mechanism", 
       "publicAccess": "r-------"
     }, 
     {
@@ -393,6 +409,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "XAbPTrBC8Dg", 
       "name": "Test Indication w/ Undocumented", 
+      "shortName": "Test Indication w/ Undocumented", 
       "publicAccess": "r-------"
     }, 
     {
@@ -409,6 +426,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "RmXHZog36ks", 
       "name": "Pregnant/Breastfeeding Status", 
+      "shortName": "Pregnant/Breastfeeding Status", 
       "publicAccess": "r-------"
     }, 
     {
@@ -434,6 +452,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "l56RVmWNddP", 
       "name": "Service Delivery Point v2", 
+      "shortName": "Service Delivery Point v2", 
       "publicAccess": "r-------"
     }, 
     {
@@ -452,7 +471,8 @@
       "dataDimension": false, 
       "dataDimensionType": "DISAGGREGATION", 
       "id": "jXsabEHLsQp", 
-      "name": "Unassisted Self Testing Kit User", 
+      "name": "Unassisted Self Testing Kit User",
+      "shortName": "Unassisted Self Testing Kit User",  
       "publicAccess": "r-------"
     }, 
     {
@@ -475,6 +495,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "iXdI2I0BcmZ", 
       "name": "HIV Test Status", 
+      "shortName": "HIV Test Status", 
       "publicAccess": "r-------"
     }, 
     {
@@ -491,6 +512,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "d58Pw4sbhp7", 
       "name": "Confirmed Recency Result", 
+      "shortName": "Confirmed Recency Result",
       "publicAccess": "r-------"
     }, 
     {
@@ -510,6 +532,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "Ss3BTQ9CiQq", 
       "name": "TB Test Type", 
+      "shortName": "TB Test Type", 
       "publicAccess": "r-------"
     }, 
     {
@@ -559,6 +582,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "hDomCfJSxiQ", 
       "name": "Age (<1-50+-uk, 12)", 
+      "shortName": "Age (<1-50+-uk, 12)", 
       "publicAccess": "r-------"
     }, 
     {
@@ -584,6 +608,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "Oc8blFgIJA1", 
       "name": "Service Delivery Area", 
+      "shortName": "Service Delivery Area", 
       "publicAccess": "r-------"
     }, 
     {
@@ -600,6 +625,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "lmf1Sn72E2b", 
       "name": "TB Screen Result", 
+      "shortName": "TB Screen Result", 
       "publicAccess": "r-------"
     }, 
     {
@@ -619,6 +645,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "kZfd98pN3ad", 
       "name": "HIV Status (Inc Unknown)", 
+      "shortName": "HIV Status (Inc Unknown)", 
       "publicAccess": "r-------"
     }, 
     {
@@ -632,6 +659,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "bUVkiB6QLYZ", 
       "name": "HIV Status (Positive Only)", 
+      "shortName": "HIV Status (Positive Only)", 
       "publicAccess": "r-------"
     }, 
     {
@@ -648,6 +676,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "SEOZOio7f7o", 
       "name": "MER_Sex", 
+      "shortName": "MER_Sex", 
       "publicAccess": "r-------"
     }, 
     {
@@ -670,6 +699,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "dzKJC5Rtwcn", 
       "name": "Known Positive / New Pos or Neg / Recent Neg", 
+      "shortName": "Known Positive / New Pos or Neg / Recent Neg", 
       "publicAccess": "r-------"
     }, 
     {
@@ -701,6 +731,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "UMr1GucUTpm", 
       "name": "No Clinical Contact Cause of Death", 
+      "shortName": "No Clinical Contact Cause of Death", 
       "publicAccess": "r-------"
     }, 
     {
@@ -713,7 +744,8 @@
       "dataDimension": false, 
       "dataDimensionType": "DISAGGREGATION", 
       "id": "GLevLNI9wkl", 
-      "name": "default", 
+      "name": "default",
+      "shortName": "default", 
       "publicAccess": "rw------"
     }, 
     {
@@ -739,6 +771,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "nCVx8TV3VnC", 
       "name": "POCT_CQI - Level", 
+      "shortName": "POCT_CQI - Level", 
       "publicAccess": "r-------"
     }, 
     {
@@ -752,6 +785,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "lfTeZdw4p8a", 
       "name": "Age (18+)", 
+      "shortName": "Age (18+)",
       "publicAccess": "r-------"
     }, 
     {
@@ -771,6 +805,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "fPrE6fiFb5f", 
       "name": "Age (<15,15+-uk, 2)", 
+      "shortName": "Age (<15,15+-uk, 2)", 
       "publicAccess": "r-------"
     }, 
     {
@@ -793,6 +828,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "aJMalPpjgN0", 
       "name": "Outcome Type v2", 
+      "shortName": "Outcome Type v2",
       "publicAccess": "r-------"
     }, 
     {
@@ -812,6 +848,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "cUssOiT9cHY", 
       "name": "Sex w/ Unknown", 
+      "shortName": "Sex w/ Unknown",
       "publicAccess": "r-------"
     }, 
     {
@@ -831,6 +868,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "lOVd9kVjsfH", 
       "name": "Cervical Cancer Screen Result", 
+      "shortName": "Cervical Cancer Screen Result", 
       "publicAccess": "r-------"
     }, 
     {
@@ -850,6 +888,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "XUBQZatxY5b", 
       "name": "Age (<1,1-4-uk, 2)", 
+      "shortName": "Age (<1,1-4-uk, 2)",
       "publicAccess": "r-------"
     }, 
     {
@@ -869,6 +908,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "lObDriA1Cyg", 
       "name": "Proficiency Testing Level", 
+      "shortName": "Proficiency Testing Level", 
       "publicAccess": "r-------"
     }, 
     {
@@ -903,6 +943,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "H400rQY70Vw", 
       "name": "Lab Test Services - POCT", 
+      "shortName": "Lab Test Services - POCT", 
       "publicAccess": "r-------"
     }, 
     {
@@ -922,6 +963,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "hZrOaXxg0N3", 
       "name": "Cervical Cancer Treatment Type", 
+      "shortName": "Cervical Cancer Treatment Type", 
       "publicAccess": "r-------"
     }, 
     {
@@ -938,6 +980,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "RLo1KuW6bDX", 
       "name": "Test Indication", 
+      "shortName": "Test Indication", 
       "publicAccess": "r-------"
     }, 
     {
@@ -990,6 +1033,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "HhQSSKwoeuI", 
       "name": "Age (0-50+-uk, 13)", 
+      "shortName": "Age (0-50+-uk, 13)", 
       "publicAccess": "r-------"
     }, 
     {
@@ -1033,6 +1077,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "oJXfCG5jnog", 
       "name": "Age (<10-50+-uk, 10)", 
+      "shortName": "Age (<10-50+-uk, 10)", 
       "publicAccess": "r-------"
     }, 
     {
@@ -1070,6 +1115,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "d4317wJ77uc", 
       "name": "Age (15-50+-uk, 8)", 
+      "shortName": "Age (15-50+-uk, 8)", 
       "publicAccess": "r-------"
     }, 
     {
@@ -1086,6 +1132,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "FK63UgOIH2K", 
       "name": "New Existing ART", 
+      "shortName": "New Existing ART", 
       "publicAccess": "r-------"
     }, 
     {
@@ -1102,6 +1149,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "GPZcq6IewcP", 
       "name": "Violence Service Type v2", 
+      "shortName": "Violence Service Type v2", 
       "publicAccess": "r-------"
     }, 
     {
@@ -1121,6 +1169,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "ogKA6IdTRHv", 
       "name": "ARV Dispensing Quantity", 
+      "shortName": "ARV Dispensing Quantity", 
       "publicAccess": "r-------"
     }, 
     {
@@ -1140,6 +1189,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "YWlxK78PXQ9", 
       "name": "Age (10-17-uk, 2)", 
+      "shortName": "Age (10-17-uk, 2)", 
       "publicAccess": "r-------"
     }, 
     {
@@ -1156,6 +1206,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "rGaFjr6CA1G", 
       "name": "HIV Self Test Kit Type", 
+      "shortName": "HIV Self Test Kit Type",
       "publicAccess": "r-------"
     }, 
     {
@@ -1181,6 +1232,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "uUE1l93wsgN", 
       "name": "No Contact Outcome", 
+      "shortName": "No Contact Outcome", 
       "publicAccess": "r-------"
     }, 
     {
@@ -1194,6 +1246,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "TBpeHECy96a", 
       "name": "Sex (Male)", 
+      "shortName": "Sex (Male)", 
       "publicAccess": "r-------"
     }, 
     {
@@ -1210,6 +1263,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "SZR0srlMbAX", 
       "name": "MER_VMMC Technique", 
+      "shortName": "MER_VMMC Technique", 
       "publicAccess": "r-------"
     }, 
     {
@@ -1229,6 +1283,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "MLEfaWipx86", 
       "name": "Cervical Cancer Screening Visit", 
+      "shortName": "Cervical Cancer Screening Visit",
       "publicAccess": "r-------"
     }, 
     {
@@ -1266,6 +1321,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "Hl1cmJhzEcj", 
       "name": "Lab Test Services Cascade", 
+      "shortName": "Lab Test Services Cascade", 
       "publicAccess": "r-------"
     }, 
     {
@@ -1282,6 +1338,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "FokGv0LCTYj", 
       "name": "Test Results", 
+      "shortName": "Test Results",
       "publicAccess": "r-------"
     }, 
     {
@@ -1298,6 +1355,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "dJbqqKoGX2M", 
       "name": "RTRI Result", 
+      "shortName": "RTRI Result", 
       "publicAccess": "r-------"
     }, 
     {
@@ -1323,6 +1381,7 @@
       "dataDimensionType": "DISAGGREGATION", 
       "id": "VCCs1f22cOR", 
       "name": "Key Populations v3", 
+      "shortName": "Key Populations v3", 
       "publicAccess": "r-------"
     }, 
 
