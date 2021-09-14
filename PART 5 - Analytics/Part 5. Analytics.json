@@ -2299,7 +2299,7 @@
       "rowDimensions": []
     }            
   ],  
-  "charts": [
+  "visualizations": [
     {
       "lastUpdated": "2021-05-06T23:40:43.212",
       "id": "Ifi9hGntlsR",
@@ -4416,7 +4416,7 @@
           "lastUpdated": "2021-05-06T23:38:40.267",
           "id": "URPkmByGdvF",
           "created": "2021-05-06T23:38:40.252",
-          "type": "CHART",
+          "type": "visualization",
           "externalAccess": false,
           "contentCount": 1,
           "height": 20,
@@ -4434,7 +4434,7 @@
             "write": true,
             "manage": true
           },
-          "chart": {
+          "visualization": {
             "id": "xuRE4BJqiV0"
           },
           "favorites": [],
@@ -4450,7 +4450,7 @@
           "lastUpdated": "2021-05-06T23:38:40.267",
           "id": "MrCLyNSnhQW",
           "created": "2021-05-06T23:38:40.252",
-          "type": "CHART",
+          "type": "visualization",
           "externalAccess": false,
           "contentCount": 1,
           "height": 20,
@@ -4468,7 +4468,7 @@
             "write": true,
             "manage": true
           },
-          "chart": {
+          "visualization": {
             "id": "t3DZRzLI0wl"
           },
           "favorites": [],
@@ -4484,7 +4484,7 @@
           "lastUpdated": "2021-05-06T23:38:40.267",
           "id": "upD2vwImNgQ",
           "created": "2021-05-06T23:38:40.252",
-          "type": "CHART",
+          "type": "visualization",
           "externalAccess": false,
           "contentCount": 1,
           "height": 19,
@@ -4502,7 +4502,7 @@
             "write": true,
             "manage": true
           },
-          "chart": {
+          "visualization": {
             "id": "UXasAB4h5qa"
           },
           "favorites": [],
@@ -4518,7 +4518,7 @@
           "lastUpdated": "2021-05-06T23:38:40.268",
           "id": "e0kV1nPVbNN",
           "created": "2021-05-06T23:38:40.252",
-          "type": "CHART",
+          "type": "visualization",
           "externalAccess": false,
           "contentCount": 1,
           "height": 19,
@@ -4536,7 +4536,7 @@
             "write": true,
             "manage": true
           },
-          "chart": {
+          "visualization": {
             "id": "Ifi9hGntlsR"
           },
           "favorites": [],
@@ -4552,7 +4552,7 @@
           "lastUpdated": "2021-05-06T23:38:40.268",
           "id": "QY4VzNARNxE",
           "created": "2021-05-06T23:38:40.252",
-          "type": "CHART",
+          "type": "visualization",
           "externalAccess": false,
           "contentCount": 1,
           "height": 8,
@@ -4570,7 +4570,7 @@
             "write": true,
             "manage": true
           },
-          "chart": {
+          "visualization": {
             "id": "tP1ENrAN8vr"
           },
           "favorites": [],
@@ -4586,7 +4586,7 @@
           "lastUpdated": "2021-05-06T23:38:40.268",
           "id": "ip1nZfrzbrk",
           "created": "2021-05-06T23:38:40.252",
-          "type": "CHART",
+          "type": "visualization",
           "externalAccess": false,
           "contentCount": 1,
           "height": 8,
@@ -4604,7 +4604,7 @@
             "write": true,
             "manage": true
           },
-          "chart": {
+          "visualization": {
             "id": "LjYkGFic1eB"
           },
           "favorites": [],
@@ -4620,7 +4620,7 @@
           "lastUpdated": "2021-05-06T23:38:40.268",
           "id": "gmm14u4nSk9",
           "created": "2021-05-06T23:38:40.252",
-          "type": "CHART",
+          "type": "visualization",
           "externalAccess": false,
           "contentCount": 1,
           "height": 8,
@@ -4638,7 +4638,7 @@
             "write": true,
             "manage": true
           },
-          "chart": {
+          "visualization": {
             "id": "ou1dpJs0lRT"
           },
           "favorites": [],
@@ -4654,7 +4654,7 @@
           "lastUpdated": "2021-05-06T23:38:40.268",
           "id": "ffHLW2G7RQj",
           "created": "2021-05-06T23:38:40.252",
-          "type": "CHART",
+          "type": "visualization",
           "externalAccess": false,
           "contentCount": 1,
           "height": 8,
@@ -4672,7 +4672,7 @@
             "write": true,
             "manage": true
           },
-          "chart": {
+          "visualization": {
             "id": "JjIAAXxCBUV"
           },
           "favorites": [],
@@ -4688,7 +4688,7 @@
           "lastUpdated": "2021-05-06T23:38:40.268",
           "id": "ZHKK8Pbp7Qv",
           "created": "2021-05-06T23:38:40.252",
-          "type": "CHART",
+          "type": "visualization",
           "externalAccess": false,
           "contentCount": 1,
           "height": 8,
@@ -4706,7 +4706,7 @@
             "write": true,
             "manage": true
           },
-          "chart": {
+          "visualization": {
             "id": "ET24pBrrreD"
           },
           "favorites": [],
@@ -4742,7 +4742,7 @@
           "lastUpdated": "2021-05-06T20:07:22.570",
           "id": "TGEnOyrHoH4",
           "created": "2021-05-06T20:07:22.549",
-          "type": "CHART",
+          "type": "visualization",
           "externalAccess": false,
           "contentCount": 1,
           "height": 10,
@@ -4760,7 +4760,7 @@
             "write": true,
             "manage": true
           },
-          "chart": {
+          "visualization": {
             "id": "mG6slsM2BGO"
           },
           "favorites": [],
@@ -4810,7 +4810,7 @@
           "lastUpdated": "2021-05-06T20:07:22.570",
           "id": "MfwfMEhJNCq",
           "created": "2021-05-06T20:07:22.550",
-          "type": "CHART",
+          "type": "visualization",
           "externalAccess": false,
           "contentCount": 1,
           "height": 10,
@@ -4828,7 +4828,7 @@
             "write": true,
             "manage": true
           },
-          "chart": {
+          "visualization": {
             "id": "VwtCHz84tyq"
           },
           "favorites": [],
@@ -4844,7 +4844,7 @@
           "lastUpdated": "2021-05-06T20:07:22.571",
           "id": "cs4IFLH3Zlp",
           "created": "2021-05-06T20:07:22.550",
-          "type": "CHART",
+          "type": "visualization",
           "externalAccess": false,
           "contentCount": 1,
           "height": 10,
@@ -4862,7 +4862,7 @@
             "write": true,
             "manage": true
           },
-          "chart": {
+          "visualization": {
             "id": "an9NYtbh7A6"
           },
           "favorites": [],
@@ -5043,7 +5043,7 @@
           "lastUpdated": "2021-05-06T22:11:38.289",
           "id": "YWgQZIZyNNQ",
           "created": "2021-05-06T22:11:38.277",
-          "type": "CHART",
+          "type": "visualization",
           "externalAccess": false,
           "contentCount": 1,
           "height": 13,
@@ -5061,7 +5061,7 @@
             "write": true,
             "manage": true
           },
-          "chart": {
+          "visualization": {
             "id": "wnU4CP0CiEb"
           },
           "favorites": [],
@@ -5077,7 +5077,7 @@
           "lastUpdated": "2021-05-06T22:11:38.290",
           "id": "jGmNRazaeVM",
           "created": "2021-05-06T22:11:38.277",
-          "type": "CHART",
+          "type": "visualization",
           "externalAccess": false,
           "contentCount": 1,
           "height": 13,
@@ -5095,7 +5095,7 @@
             "write": true,
             "manage": true
           },
-          "chart": {
+          "visualization": {
             "id": "BsNjimLJEnQ"
           },
           "favorites": [],
@@ -5233,7 +5233,7 @@
           "lastUpdated": "2021-05-06T20:20:38.503",
           "id": "ubcd8g8nR4M",
           "created": "2021-05-06T20:20:38.491",
-          "type": "CHART",
+          "type": "visualization",
           "externalAccess": false,
           "contentCount": 1,
           "height": 12,
@@ -5251,7 +5251,7 @@
             "write": true,
             "manage": true
           },
-          "chart": {
+          "visualization": {
             "id": "f9Zm8D0CiZs"
           },
           "favorites": [],
@@ -5267,7 +5267,7 @@
           "lastUpdated": "2021-05-06T20:20:38.503",
           "id": "beApnVX4H8r",
           "created": "2021-05-06T20:20:38.491",
-          "type": "CHART",
+          "type": "visualization",
           "externalAccess": false,
           "contentCount": 1,
           "height": 12,
@@ -5285,7 +5285,7 @@
             "write": true,
             "manage": true
           },
-          "chart": {
+          "visualization": {
             "id": "vkWVUMk6XWb"
           },
           "favorites": [],
